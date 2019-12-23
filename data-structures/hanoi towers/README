@@ -1,0 +1,5 @@
+Am alocat o lista o stiva pentru fiecare turn iar pentru fiecare culoare am creat o structura Sistem.
+Strcutura Sistem contine cele 3 tije specifice fiecare culori.
+In functia Init initializez un turn(o tija) de tip stiva iar in Inserare adaug discul pe tija respectiva.
+In functia AlocLista aloc cate un element de tip Sistem pentru fiecare culoare aparuta.
+In main creez lista cu sisteme si adaug discurile prin functiile descrise mai sus apoi la comanda show la afisez parcurgand stivele pentru fiecare culoare.

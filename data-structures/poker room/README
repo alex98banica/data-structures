@@ -1,0 +1,39 @@
+Functii de alocare:
+
+Am creat o functie care aloca un element de tip jucator ,o functie care insereaza in lista cu jucatori elementele create, o functie care citeste elemente de tip masa si pointeaza catre lista cu jucatori, alta functie care introduce in lista cu mese fiecare element de acest tip iar ultima functie de alocare creeaza intreaga sala cu lista de mese inclusa.
+
+Print:
+Functia print afiseaza sala in fucntie de nucamrul curent de jucatori de la fiecare masa.
+
+Noroc:
+Functia noroc verifica daca exista masa si jucatorul cautat si cauta in sala masa ceruta si creste numarul de maini al jucatorului cautat cu valoarea ceruta.
+Daca jucatorul sau masa nu exista cauta se va afisa mesajul corespunzator.
+
+Ghinion:
+Functia noroc verifica daca exista masa si jucatorul cautat si cauta in sala masa ceruta si scade numarul de maini al jucatorului cautat cu valoarea ceruta si elimina jucatorul si masa daca este necesar.
+Daca jucatorul sau masa nu exista cauta se va afisa mesajul corespunzator.
+
+Inchide:
+Functia verifica daca exista masa si daca sunt destule locuri disponibile in sala apoi calculeaza numarul de locuri libere in sala si retine numarul de locuri libere si numarul de locuri de la masa care trebuie inchisa.Apoi verifica daca sunt suficiente locuri in sala pentru a elimina masa respectiva prin scaderea din numarului total de locuri libere in sala pe cel cel al locurilor disponibile la masa cautata si numarul curent de locuri al mesei.
+Daca exisa locuri muta jucatorii de la masa cautata la alte mese si elimina masa.
+Daca nu exista suficiente locuri se afiseaza mesajul cerut.
+
+Tura:
+Functia permuta jucatorii de la masa ceruta scade numarul de maini de la fiecare jucator si daca este nevoie elimina jucatorii sau masa.
+Daca nu exista masa se afiseaza mesajul cerut.
+
+Turacompleta si verifstergemasa:
+Functia permuta jucatorii de la taote mesele si scade numarul de maini de la fiecare jucator si daca este nevoie elimina jucatorii iar prin functia verifstergemasa cauta si elimina mesele fara jucatori.
+
+Clasament si inslistaclasament:
+Funnctia creaza cu ajutorul inslistaclasament o lista ordonata conform cerintei si o afiseaza.
+
+Elibereaza:
+Functia elibereaza memoria folosita in sala.
+
+Main:
+Deschide fisierele necesare.
+Citeste comenzile si elementele necesare comenzii pana cand ajunge la finalul fisierului de evenimente executand comenzile in acelasi timp.
+Inchide fisierele deschise.
+
+Punctaj obtinut checker local 85/85.
